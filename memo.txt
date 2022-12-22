@@ -1,4 +1,4 @@
-dockerでpython(selenium) + nginx or apache + LINE Messaging API + line-bot-sdkで材料入力したらレシピを上から10個表示するbotを作る
+dockerでpython(selenium,flask) + nginx or apache + LINE Messaging API + line-bot-sdkで材料入力したらレシピを上から10個表示するbotを作る
 スクレイピングするのはこれ↓
 https://cookpad.com/search
 
@@ -6,3 +6,7 @@ https://cookpad.com/search
 https://kurasher.hatenablog.com/entry/2020/08/01/022750
 
 https://developers.gmo.jp/15591/
+
+https://qiita.com/kro/items/67f7510b36945eb9689b
+
+https://qiita.com/maru401/items/880527eb5f8bbabfa430
