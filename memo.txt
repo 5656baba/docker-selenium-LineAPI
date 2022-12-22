@@ -1,0 +1,6 @@
+dockerでpython(selenium) + nginx or apache + LINE Messaging API + line-bot-sdkで材料入力したらレシピを上から10個表示するbotを作る
+スクレイピングするのはこれ↓
+https://cookpad.com/search
+
+参考↓
+https://kurasher.hatenablog.com/entry/2020/08/01/022750
